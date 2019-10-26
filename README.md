@@ -28,7 +28,7 @@ ATOM IDE, AWS, Flask, NAVER CLOUD PLATFORM, Python
 
 12. 다음과 같이 명령어를 입력하십시오.
 
-`sudo su - `
+`sudo su - `</br>
 `yum update -y`</br>
 `reboot`</br>
 `sudo su -`</br>
